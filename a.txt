@@ -2,3 +2,7 @@
 1. git commit -m "commit message"
 2. checkout 으로 버전 바꿀 수 있다.
 3. branch 를 만들고 다시 합치기
+
+git remote add origin https://github.com/dongjin0521/haedalGitPractice.git
+git branch -M main //예전엔 master
+git push -u origin main //페이지에다 작업한 내용을 push
