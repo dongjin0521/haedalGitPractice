@@ -1,2 +1,3 @@
 <git 강의>
-
+1. git commit -m "commit message"
+2. 
