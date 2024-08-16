@@ -1,3 +1,4 @@
 <git 강의>
 1. git commit -m "commit message"
-2. 
+2. checkout 으로 버전 바꿀 수 있다.
+3. branch 를 만들고 다시 합치기
